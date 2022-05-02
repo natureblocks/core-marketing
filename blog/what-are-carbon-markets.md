@@ -1,0 +1,25 @@
+# What are Carbon Markets and how do they work?
+
+Carbon markets are new developing **markets for carbon offsets**. Since they are developing markets, fragmentation and a lack of liquidity create many price inefficiencies that make carbon markets hard to navigate. Developing carbon markets can be separated into two categories. These two categories are compliance markets and voluntary markets.
+
+## What are compliance markets?
+
+Compliance markets are **carbon markets regulated directly by governments**. Different governments have different rules and regulations for emissions, but they follow a similar pattern for the most part. Each government sets a certain threshold of carbon emissions that businesses must stay under or face a financial penalty. This limit decreases over time, similar to the atmosphere's ability to sustain carbon emissions. Therefore, companies releasing carbon into the atmosphere must continue to lower their carbon footprints to comply with consistently reducing carbon emission limits.
+
+> Suppose these companies cannot reduce their emissions as part of their business processes. In that case, they can purchase carbon credits (denominations of carbon offsets) from companies that have stayed under their respective carbon limits or recaptured atmospheric carbon.
+
+In this scenario, one can think of the carbon-emitting businesses searching for offsets as investors in the carbon markets. They must find carbon-negative projects to buy carbon credits from or face government penalties. However, most governments have only provided a narrow categorization of compliance credits, so many companies looking to meet their carbon emission reduction requirements must search for solutions outside compliance markets. This investor demand meets supply in voluntary carbon markets.
+
+## What are voluntary markets?
+
+Voluntary markets are **markets for carbon credits that have been verified and registered to non-profit organizations** instead of governments. There are two main participants in voluntary markets besides non-profit registries: Voluntary carbon projects and investors. Voluntary carbon projects target atmospheric carbon dioxide recapture or reduction and can request verification of their carbon-reducing practices from third-party non-profit organizations. The non-profit organizations must receive a license from the country's government that they plan to verify credits under and create specific methodologies to prove that a project's form of emission reduction works before they may issue any credits.
+
+> Once a methodology for reducing carbon is tested and proven to work, it can be applied repeatedly so that carbon projects don't have to re-verify the same process. Non-profit organizations award voluntary carbon projects carbon credits when the projects reach completion. Investors then look to purchase these credits as either investment vehicles or offsets to their carbon emissions.
+
+## How can one invest in carbon credits, and what are the risks?
+
+To purchase a carbon credit, one must interact directly with the non-profit registry from which it was registered. Unfortunately, these registries cannot often transfer credits between each other. Between the lack of carbon credits available in compliance markets and the complex nature of verifying and attaining carbon credits in the voluntary markets, it is easy to see why carbon markets currently suffer from many price inefficiencies. Although developing markets like this tend to come with more risk, it is hard not to see the potential of investing in carbon. Governments have already stated that they will continue to lower carbon limits, which innately increases investor demand in carbon markets.
+
+## Who participates in carbon markets?
+
+Large consumer-facing businesses, investment firms, and individual investors are becoming increasingly involved and interested in carbon markets. Overall, there is a massive opportunity for investors to help bring liquidity to carbon markets and reduce their current price inefficiencies, allowing carbon reduction and recapture projects to receive the funding they need. Natureblocks is here to connect you to carbon markets today.
