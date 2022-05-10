@@ -2,7 +2,7 @@
 
 Natureblocks Technologies Inc. ("**Natureblocks**", "**we**", "**us**" or "**our**") is a corporation formed pursuant to the *Canada Business Corporations Act* (R.S.C., 1985, c. C-44). In consideration for permitting your access to our website and online services and other good and valuable consideration, you agree as follows:
 
-These terms of use (the "**Terms**") form a legally binding agreement which govern your access to and use of our website (the "**Website**") our web-based digital asset exchange and corresponding Android, iPhone (iOS) and Apple Watch (WatchOS) applications (collectively the "**Service**"). The Website and web-based Service are hosted at [https://natureblocks.com](https://natureblocks.com/)and other domains and sub-domains. The iPhone and Apple Watch applications, which form part of the Service, are only available for download on the [Apple App Store](https://apps.apple.com/ca/app/newton-no-fee-crypto-trading/id1370504122). The Android application is only available for download on the Google Play Store. Aside from any application programming interface (“API”) we may grant access to, you are not permitted to access or interact with the Service or download our mobile or WatchOS applications from any other source.
+These terms of use (the "**Terms**") form a legally binding agreement which govern your access to and use of our website (the "**Website**") our web-based digital asset exchange and corresponding Android, iPhone (iOS) and Apple Watch (WatchOS) applications (collectively the "**Service**"). The Website and web-based Service are hosted at [https://natureblocks.com](https://natureblocks.com/) and other domains and sub-domains. The iPhone and Apple Watch applications, which form part of the Service, are only available for download on the [Apple App Store](https://apps.apple.com/ca/app/newton-no-fee-crypto-trading/id1370504122). The Android application is only available for download on the Google Play Store. Aside from any application programming interface (“API”) we may grant access to, you are not permitted to access or interact with the Service or download our mobile or WatchOS applications from any other source.
 
 > THESE TERMS HAVE PROVISIONS WHICH LIMIT OUR LIABILITY AND IMPOSE OBLIGATIONS ON YOU
 
@@ -12,7 +12,7 @@ If you are using the Website or Service on behalf of, or in the employ of, an or
 
 ## Privacy
 
-We use your personal information in accordance with these Terms and our privacy policy, which is available online at [https://natureblocks.co/privacy.html](https://natureblocks.com/privacy.html) as amended from time to time (the “**Privacy Policy**”).  By using our Website and Service, you consent to such processing and you represent that all information provided by you is accurate.**‍**‍**‍**
+We use your personal information in accordance with these Terms and our privacy policy, which is available online at [https://natureblocks.com/privacy.html](https://natureblocks.com/privacy.html) as amended from time to time (the “**Privacy Policy**”).  By using our Website and Service, you consent to such processing and you represent that all information provided by you is accurate.**‍**‍**‍**
 
 ## Amendments
 

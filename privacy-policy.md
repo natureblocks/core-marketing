@@ -79,11 +79,11 @@ To assist us with account and information validations we may also use third part
 
 ## Data Hosting Providers
 
-In order to store and share personal information with Flinks, Plaid, financial institutions and others in connection with this Privacy Policy, we use third party data hosting providers. If you have questions regarding our data hosting providers please contact us using the details online at <https://www.natureblocks.co/support>.
+In order to store and share personal information with Flinks, financial institutions and others in connection with this Privacy Policy, we use third party data hosting providers. If you have questions regarding our data hosting providers please contact us using the details online at <https://www.natureblocks.com/support>.
 
 ## Support Ticketing Software
 
-We also use third party support ticketing software. We may store your personal information with such third party software providers. If you have questions regarding our third party support ticket software, please contact us using the details online at <https://www.natureblocks.co/support>.  
+We also use third party support ticketing software. We may store your personal information with such third party software providers. If you have questions regarding our third party support ticket software, please contact us using the details online at <https://www.natureblocks.com/support>.  
 
 ## Email Communications
 
