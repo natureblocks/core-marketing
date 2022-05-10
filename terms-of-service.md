@@ -24,8 +24,6 @@ If you do not agree with the amendments, you must immediately stop accessing the
 
 Our Service operates as an online platform for buying and selling digital assets, which as of the last date of these Terms, include **Bitcoin, Ethereum, Litecoin, Bitcoin Cash, Stellar Lumens, and USD Coin, in addition to those displayed within your Account on the Service** (collectively the “**Digital Assets**” and each a “**Digital Asset**”). We may add additional digital assets to our Service. We may also remove support for, or the ability to buy, sell or exchange existing Digital Assets, at any time. You agree that these Terms shall apply to any additional digital assets added to our Service.
 
-## Custody and Ownership of Platform Currencies
-
 ## Appointment
 
 You agree to hereby appoint us to act as the custodian of the Digital Assets in your Account, to be held in trust by us for your benefit in accordance with these Terms, and we accept such appointment and the obligations, duties, and responsibilities set out in these Terms.
