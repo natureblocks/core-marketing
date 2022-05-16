@@ -1,6 +1,6 @@
 # core-website
 
-## bob
+## 
 
 Public content for natureblocks.com
 
