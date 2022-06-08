@@ -1,6 +1,6 @@
 # What is Blockchain?
 
-A blockchain is a decentralized ledger hosted by nodes of a computer network. **Blockchains store immutable data in digital format. They guarantee security and fidelity of records, allowing two parties to communicate confidentially without needing a trusted third party**. Effectively, blockchains replace trusted third parties with many computers that share a ledger of transactions or communications. The most common use of blockchain today is to facilitate the trading of cryptocurrencies. Blockchains also allow smart contracts to be created and executed on their networks.
+A blockchain is a decentralized ledger hosted by nodes of a computer network. **Blockchains store immutable data in digital format. They guarantee security and fidelity of records, allowing two parties to communicate confidentially without needing a trusted third party**. Effectively, blockchains replace trusted third parties with many computers that share a ledger of transactions or communications. The most common use of blockchain today is to facilitate the trading of cryptocurrencies with help from [cryptographic](https://natureblocks.com/blog/what-is-cryptography) processes. Blockchains also allow smart contracts to be created and executed on their networks.
 
 ## Why is it called blockchain?
 
@@ -26,4 +26,4 @@ One can visualize Blockchain nodes as small individual servers responsible for m
 
 Smart contracts are an exciting layer that has recently become popular with blockchain technology. Blockchain networks allow smart contracts to exist as applications powered by nodes. They provide a significant amount of utility because they enable individuals to access the computing power of a blockchain and create immutable contracts stored within it. **Smart contracts are self-executing contracts with their terms written directly into their code**, providing the contract the same authenticity, integrity, confidentiality, and non-repudiation as blockchain technology does.
 
-> For example, smart contracts are used to mint NFTs or non-fungible tokens. Smart contracts assign ownership and transferability of the NFT. Smart contracts execute code stored within themselves according to the standard of their blockchain network to mint NFTs.
+> For example, smart contracts are used to mint [NFTs](https://natureblocks.com/blog/what-is-an-nft) or non-fungible tokens. Smart contracts assign ownership and transferability of the [NFT](https://natureblocks.com/blog/what-is-an-nft). Smart contracts execute code stored within themselves according to the standard of their blockchain network to mint [NFTs](https://natureblocks.com/blog/what-is-an-nft).

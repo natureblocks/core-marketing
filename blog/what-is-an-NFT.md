@@ -1,14 +1,14 @@
 # What is an NFT?
 
-NFTs are a new digital asset class built on blockchain technology. NFT stands for non-fungible token. If something is fungible, it can easily be replaced or interchanged. Therefore, if something is non-fungible, it cannot easily be replaced or interchanged. **Non-fungible tokens are tokens that exist on blockchains that cannot be replaced or interchanged**. Each token is unique, and all of its previous transactions are traceable on the blockchain that each exists on.
+NFTs are a new digital asset class built on [blockchain](https://natureblocks.com/blog/what-is-blockchain) technology that take advantage of [cryptography](https://natureblocks.com/blog/what-is-cryptography). NFT stands for non-fungible token. If something is fungible, it can easily be replaced or interchanged. Therefore, if something is non-fungible, it cannot easily be replaced or interchanged. **Non-fungible tokens are tokens that exist on [blockchain](https://natureblocks.com/blog/what-is-blockchain)s that cannot be replaced or interchanged**. Each token is unique, and all of its previous transactions are traceable on the [blockchain](https://natureblocks.com/blog/what-is-blockchain) that each exists on.
 
 ## What is minting?
 
-For something to become an NFT, it needs to be minted. **Minting is the process by which a digital wallet is linked to a blockchain network, and then the NFT itself is assigned its ownership**. Once the NFT is part of a blockchain network, speculators can see previous transactions, who minted it, and when it was minted. The process of NFT minting is a lot like minting a physical coin.
+For something to become an NFT, it needs to be minted. **Minting is the process by which a digital wallet is linked to a [blockchain](https://natureblocks.com/blog/what-is-blockchain) network, and then the NFT itself is assigned its ownership**. Once the NFT is part of a [blockchain](https://natureblocks.com/blog/what-is-blockchain) network, speculators can see previous transactions, who minted it, and when it was minted. The process of NFT minting is a lot like minting a physical coin.
 
-> For example, a physical coin is evaluated for its precious metal concentration and then minted with the concentration data, allowing speculators to hypothesize its value. Similarly, a non-fungible token is assessed for its intrinsic value and any data it contains, then minted as a token on the blockchain, allowing speculators to hypothesize its value.
+> For example, a physical coin is evaluated for its precious metal concentration and then minted with the concentration data, allowing speculators to hypothesize its value. Similarly, a non-fungible token is assessed for its intrinsic value and any data it contains, then minted as a token on the [blockchain](https://natureblocks.com/blog/what-is-blockchain), allowing speculators to hypothesize its value.
 
-NFT minting processes vary slightly depending on the blockchain infrastructure they use.
+NFT minting processes vary slightly depending on the [blockchain](https://natureblocks.com/blog/what-is-blockchain) infrastructure they use.
 
 ## What is tokenization?
 
@@ -18,7 +18,7 @@ Tokenization is the process by which something becomes a token. In data security
 
 ## What are some use cases for NFTs?
 
-Non-fungible tokens have many different use cases. For example, unlike a cryptocurrency which is a divisible unit of account, non-fungible tokens have individual values based on sentiment around the particular token. However, like cryptocurrencies, **blockchain technology allows non-fungible tokens to have authenticity, integrity, confidentiality, and ensures they are non-repudiable**.
+Non-fungible tokens have many different use cases. For example, unlike a cryptocurrency which is a divisible unit of account, non-fungible tokens have individual values based on sentiment around the particular token. However, like cryptocurrencies, [blockchain](https://natureblocks.com/blog/what-is-blockchain) technology allows non-fungible tokens to have authenticity, integrity, confidentiality, and ensures they are non-repudiable.
 
 > The most common NFT use has been for showing authentic ownership of digital art. Numerous projects have released profile picture collections (PFP) for social media minted as NFTs so that only the owners can prove authenticity. Another interesting use case is for event tickets. Concert goers are digitally assigned non-fungible tokens upon their purchase of a ticket. A concert ticket NFT could contain data on section, seat, exclusive area access or even be redeemable for merchandise.
 

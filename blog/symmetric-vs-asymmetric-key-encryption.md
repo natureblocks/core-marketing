@@ -2,9 +2,11 @@
 
 ## What is a cryptographic key?
 
-All cryptography requires a key because **keys create and crack the code of cryptographic communications**. A key can be as simple as a random number or as complex as an entire algorithm. ‍
+All [cryptography](https://natureblocks.com/blog/what-is-cryptography) requires a key because **keys create and crack the code of cryptographic communications**. A key can be as simple as a random number or as complex as an entire algorithm. ‍
 
-> You can think of the relationship between keys and encrypted data as the relationship between a legend and a map. Without the legend, it is nearly impossible to understand what the symbols on a map represent. Likewise, it is almost impossible to encrypt and decrypt information without a key. In key encryption, the terms symmetric and asymmetric refer to the keys that senders and receivers use to encrypt and decrypt information. In symmetric systems, both sender and receiver use the same key. In asymmetric systems, the sender and receiver each have a unique key input. Both systems have pros and cons.
+> You can think of the relationship between keys and encrypted data as the relationship between a legend and a map. Without the legend, it is nearly impossible to understand what the symbols on a map represent. Likewise, it is almost impossible to encrypt and decrypt information without a key.
+
+In key encryption, the terms symmetric and asymmetric refer to the keys that senders and receivers use to encrypt and decrypt information. In symmetric systems, both sender and receiver use the same key. In asymmetric systems, the sender and receiver each have a unique key input. Both systems have pros and cons.
 
 ## What is symmetric-key encryption?
 
@@ -26,4 +28,4 @@ Asymmetric-key or public-key encryption solves this problem by allowing the send
 
 ## Where is asymmetric-key encryption used?
 
-Many different internet services use asymmetric-key encryption algorithms. For example, the first cryptocurrency, Bitcoin, introduced the Elliptic Curve Digital Signature Algorithm (ECDSA) for transactions, and it requires asymmetric-key encryption to function. All cryptocurrencies use similar algorithms with asymmetric keys to allow for anonymous encrypted transactions.
+Many different internet services use asymmetric-key encryption algorithms. For example, the first cryptocurrency, Bitcoin, introduced the Elliptic Curve Digital Signature Algorithm (ECDSA) for transactions, and it requires asymmetric-key encryption to function. All cryptocurrencies use similar algorithms with asymmetric keys to allow for anonymous encrypted transactions to be recorded to the [blockchain](https://natureblocks.com/blog/what-is-blockchain).

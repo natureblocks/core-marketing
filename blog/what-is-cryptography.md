@@ -4,7 +4,7 @@ The need for information security is as old as communication itself. Cryptograph
 
 ## What are some examples of cryptography?
 
-Examples of cryptography can be traced as early as the 1st century AD, when the Roman Army used a protocol named in honour of Julias Caesar to encrypt military and other official messages. Another famous, potentially familiar example is the use of the Enigma Code by Axis forces during World War 2.
+Examples of cryptography can be traced as early as the 1st century AD, when the Roman Army used a protocol named in honour of Julias Caesar to encrypt military and other official messages. Another famous example is the use of the Enigma Code by Axis forces during World War 2.
 
 ## What are the main principles of cryptography?
 
@@ -21,12 +21,14 @@ Cryptosystems are any procedures or protocols that achieve some or all of these 
 
 ## How is cryptography used today?
 
-Cryptography techniques include merging words with images, microdots, and other information distortion. For example, if you have ever completed a CAPTCHA challenge-response before creating a new online account, you've successfully deciphered encrypted information.
+Cryptography techniques include merging words with images, microdots, and [other information distortion](https://natureblocks.com/blog/symmetric-vs-asymmetric-key-encryption). For example, if you have ever completed a CAPTCHA challenge-response before creating a new online account, you've successfully deciphered encrypted information.
 
 > CAPTCHA is an acronym for "Completely Automated Public Turing test to tell Computers and Humans Apart." The key to a CAPTCHA test is the human ability to see the association between words and images. Implementing CAPTCHA is a form of cryptography because it encrypts access to specific information so that computers cannot access it while humans can. Microdots are another form of cryptography that entails substantially reducing the size of text or images, distorting the message to protect it from certain observers.
 
 ## How is cryptography used in computer science?
 
-Cryptography in computer science refers to secure information communication techniques using algorithms that transform messages, making them hard to decipher. **Algorithms are rule-based calculations based on mathematical concepts**. A basic example of an algorithm is the protocol for which an elevator calculates the most efficient floor(s) to stop at next. A complex model is how search engines rank results.
+Cryptography in computer science refers to secure information communication techniques using [algorithms that transform messages](https://natureblocks.com/blog/symmetric-vs-asymmetric-key-encryption), making them hard to decipher. **Algorithms are rule-based calculations based on mathematical concepts**. A basic example of an algorithm is the protocol for which an elevator calculates the most efficient floor(s) to stop at next. A complex model is how search engines rank results.
 
-**Cryptographic algorithms are responsible for secure information transfer** between many devices, applications, and systems. These encryption and decryption algorithms can also be called ciphers. In most cases, secure information transfer requires many ciphers working together. Secure cryptosystems have at least one key generation algorithm, a second algorithm allowing digital signing to provide message authentication, and a third algorithm for the actual exchange of keys between parties. A set of cryptographic algorithms with a common purpose are called a **cipher suite**.
+**Cryptographic algorithms are responsible for secure information transfer** between many devices, applications, and systems. These encryption and decryption algorithms can also be called ciphers. In most cases, secure information transfer requires many ciphers working together. Secure cryptosystems have at least one key generation algorithm, a second algorithm allowing digital signing to provide message authentication, and a third algorithm for the actual exchange of keys between parties. A set of [cryptographic algorithms](https://natureblocks.com/blog/symmetric-vs-asymmetric-key-encryption) with a common purpose are called a **cipher suite**.
+
+> For example, cryptographic algorithms provide security to [blockchain](https://natureblocks.com/blog/what-is-blockchain) transactions, allowing cryptocurrencies and [NFT](https://natureblocks.com/blog/what-is-an-nft)s to be traded with confidentiality, integrity, immutability, and authenticity.

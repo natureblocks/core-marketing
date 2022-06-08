@@ -1,6 +1,6 @@
 # How do Voluntary Projects Report Carbon Offsets?
 
-If a voluntary carbon project wishes to be awarded carbon credits by a non-profit registry, there are many reporting criteria that the project needs to meet. As carbon accounting has many variables that are hard to quantify, carbon emission reduction projects must state specific modelling methods they used in detail. Even voluntary carbon projects produce some carbon emissions, whether from unintended environmental circumstances or simply operators driving to the project site. These adverse effects must be defined as either primary (direct emissions from combustion of fossil fuels) or secondary (indirect emissions from product life cycles) carbon emissions and recorded.
+If a voluntary carbon project wishes to be awarded [carbon credits](https://natureblocks.com/blog/what-are-carbon-credits) to sell in [carbon markets](https://natureblocks.com/blog/what-are-carbon-markets) by a non-profit registry, there are many reporting criteria that the project needs to meet. As carbon accounting has many variables that are hard to quantify, carbon emission reduction projects must state specific modeling methods they used in detail. Even voluntary carbon projects produce some carbon emissions, whether from unintended environmental circumstances or simply operators driving to the project site. These adverse effects must be defined as either primary (direct emissions from combustion of fossil fuels) or secondary (indirect emissions from product life cycles) carbon emissions and recorded.
 
 ## What documents are required?
 
@@ -16,8 +16,8 @@ Project activity refers to the specific sustainable practices that offset carbon
 
 ## What are the maintenance requirements and risks of a carbon project?
 
- An annual monitoring report summary must be provided, including the baseline and project activity calculations anticipated for five to ten years. In addition, projects must state methods for ongoing monitoring of inventory, disturbances, and reversals. Inventory, disturbance, and reversal risk refer to the risk of carbon emissions reverting to above the baseline standards after a project has been certified. Contributing factors to reversal risk include financial failure, management risk, social risks, disease or species risks, and natural disasters. The reversal risk is estimated to create a buffer pool that accounts for fluctuations in carbon emissions. Different project types may require additional risk calculations.
+An annual monitoring report summary must be provided, including the baseline and project activity calculations anticipated for five to ten years. In addition, projects must state methods for ongoing monitoring of inventory, disturbances, and reversals. Inventory, disturbance, and reversal risk refer to the risk of carbon emissions reverting to above the baseline standards after a project has been certified. Contributing factors to reversal risk include financial failure, management risk, social risks, disease or species risks, and natural disasters. The reversal risk is estimated to create a buffer pool that accounts for fluctuations in carbon emissions. Different project types may require additional risk calculations.
 
 ## Wow, that sounds like a lot
 
-It is. Overall, reporting a carbon offset is a complex but necessary process. The plethora of reporting criteria ensures that any carbon credits issued are legitimate and deserving projects get rewarded for their work.
+It is. Overall, reporting a carbon offset is a complex but necessary process. The plethora of reporting criteria ensures that any [carbon credits](https://natureblocks.com/blog/what-are-carbon-credits) issued are legitimate and deserving projects get rewarded for their work.
