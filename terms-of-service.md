@@ -2,7 +2,7 @@
 
 Natureblocks Technologies Inc. ("**Natureblocks**", "**we**", "**us**" or "**our**") is a corporation formed pursuant to the *Canada Business Corporations Act* (R.S.C., 1985, c. C-44). In consideration for permitting your access to our website and online services and other good and valuable consideration, you agree as follows:
 
-These terms of use (the "**Terms**") form a legally binding agreement which govern your access to and use of our website (the "**Website**") our web-based digital asset exchange and corresponding Android, iPhone (iOS) and Apple Watch (WatchOS) applications (collectively the "**Service**"). The Website and web-based Service are hosted at [https://natureblocks.com](https://natureblocks.com/) and other domains and sub-domains. The iPhone and Apple Watch applications, which form part of the Service, are only available for download on the [Apple App Store](https://apps.apple.com/ca/app/newton-no-fee-crypto-trading/id1370504122). The Android application is only available for download on the Google Play Store. Aside from any application programming interface (“API”) we may grant access to, you are not permitted to access or interact with the Service or download our mobile or WatchOS applications from any other source.
+These terms of use (the "**Terms**") form a legally binding agreement which govern your access to and use of our website (the "**Website**") our web-based digital asset exchange and corresponding Android, iPhone (iOS) and Apple Watch (WatchOS) applications (collectively the "**Service**"). The Website and web-based Service are hosted at [https://natureblocks.com](https://natureblocks.com/) and other domains and sub-domains.
 
 > THESE TERMS HAVE PROVISIONS WHICH LIMIT OUR LIABILITY AND IMPOSE OBLIGATIONS ON YOU
 
@@ -16,7 +16,7 @@ We use your personal information in accordance with these Terms and our privacy 
 
 ## Amendments
 
- As our Website and Service continue to change, we may, at any time, revise these Terms and our policies by updating this page or the page hosting the relevant policy.  The date of the last version of these Terms is posted above.  As you are bound by these Terms each time you visit our Website or use our Service, you are responsible for periodically reviewing the amendments to these Terms and you are deemed to have accepted and agreed to such amendments by accessing and using the Website and Service after such amendments have been posted.  We may also undertake to send you notice of any changes to the Terms or policies via email and/or a notification on the Service.
+As our Website and Service continue to change, we may, at any time, revise these Terms and our policies by updating this page or the page hosting the relevant policy.  The date of the last version of these Terms is posted above.  As you are bound by these Terms each time you visit our Website or use our Service, you are responsible for periodically reviewing the amendments to these Terms and you are deemed to have accepted and agreed to such amendments by accessing and using the Website and Service after such amendments have been posted.  We may also undertake to send you notice of any changes to the Terms or policies via email and/or a notification on the Service.
 
 If you do not agree with the amendments, you must immediately stop accessing the Website and Service and terminate your Account, subject to the provision of these Terms.
 
@@ -36,47 +36,7 @@ The Digital Assets held in trust in your Account are fully-paid assets beneficia
 
 You agree and acknowledge that you are the initiator and beneficiary of all transfers to your Account, to the extent that the transfer is within your control. You acknowledge that any incoming transfer not initiated or not requested to be initiated by you may not be released to your Account, until or unless you submit information on the person or entity who initiated the transfer. You also acknowledge that Natureblocks reserves the right to conduct a manual review of your account and any incoming transfer(s), to ensure that the funds can be released to your account. This review period is usually completed within 24 to 48 hours, but it may take longer.
 
-When you deposit or purchase Digital Assets via our Service, they will be delivered and held under the custody of a third-party Digital Asset custodian (“Custodian(s)”). As of the last date of these Terms, we use the following third-party Custodians in respect of various Digital Assets:
-
-As part of the deposit or withdrawal process, we may also use third party Digital Asset wallet providers, including, Fireblocks Ltd. of 221 River Street, 9th Floor, Hoboken NJ 07030 and their affiliated and related entities. For details on their services see <https://www.fireblocks.com/>. As a result of our use of their services, you agree and acknowledge that when you deposit or withdraw Digital Assets they may be temporarily stored with such third-party wallet providers.
-
-Natureblocks has licensed software from Digital Services Limited (trading as CoinCover) (“CoinCover”) to provide additional security for keys to Digital Assets held by Natureblocks using Fireblocks Ltd., including key pair creation, device access recovery and account access recovery. CoinCover is based in the United Kingdom and is regulated by the U.K. Financial Conduct Authority.
-
-In addition to the additional security keys provided by Coincover for Digital Assets held by Natureblocks, Natureblocks has also obtained a guarantee from Coincover for 100% of the client assets held with Fireblocks, excluding losses arising from the gross negligence, willful misconduct or fraud of an employee or representative of Natureblocks. The guarantee covers the theft or loss of crypto assets and also includes a software technology solution which monitors and limits transactions and prevents funds from being maliciously taken from Fireblocks wallets. The total aggregated cover amount under the Coincover guarantee is currently over US$19,500,000 and the coverage amount is reviewed periodically by Natureblocks.
-
-To facilitate the ordinary operation of our Service and for each Custodian to reconcile and confirm they hold your Digital Assets, you agree that we may provide each Custodian with any and all of the personal information we have collected from you, including but not limited to your name, email address, phone number, identity documents, identity numbers (such as driver license numbers), bank account and transaction details.
-
-Each Custodian may have their own privacy policy on the collection, storage and use of your personal information. Please contact them directly for details.
-
-By using our Service, you consent to the use of and our integration with each Digital Asset wallet provider and each Custodian to act as a custodian of your Digital Assets. You further consent to the Digital Assets which you purchase or deposit in connection with our Service being delivered to, deposited with and held by a Custodian on your behalf. The use of each Custodian depends, in part, on which Digital Asset(s) you purchase and/or deposit via our Service.
-
-We regularly make delivery of the Digital Assets you and other users purchase on the Service to Custodians and reconcile the Digital Assets you purchase or sell on the Service with each Custodian. To do so, we send and receive the Digital Asset amounts you buy or sell, to or from Custodians. Although times may vary, typically, our delivery to and receipt from a Custodian and the reconciliation occurs within two (2) business days from the date of your corresponding transaction on our Service.
-
-After the reconciliation occurs, you agree and acknowledge that the Digital Asset balances displayed in your Account on our Service are a display of the amounts held under the custody of a Custodian on your behalf.
-
-We do not have access to or control over private cryptographic keys necessary to send Digital Assets from a Custodian’s custody. We rely on the actions taken from within your Account to send instructions, via our Service, to the Custodian to cause any transactions in which your Digital Assets are withdrawn, traded or sold. For details, see the section below entitled, *Withdrawing Digital Assets to External Digital Wallets*.
-
-In order to facilitate quicker sales, trades and withdrawals of Digital Assets, you agree that we may use Digital Assets which we own, to carry out any sale, trade or withdrawal instructions provided from within your Account on the Service. Upon a sale, trade or withdrawal transaction being requested and confirmed from within your Account on the Service, you agree that we shall have your irrevocable consent to instruct Custodians to cause an equal number of Digital Assets to be withdrawn from their custody, which you owned, to setoff amounts we send you, or which you trade as part of such sale, trade and/or withdrawal transaction.
-
-We do not, nor do we purport to have, legal title to or ownership of Digital Assets which are delivered to each Custodian by us, on your behalf, in connection with the purchase or exchange of Digital Assets you make on our Service.
-
-To the extent you purchase or deposit Digital Assets which are held by a Custodian in connection with our Service, you agree to keep your Digital Assets free from any liens, encumbrances, charges, or claims, unless disclosed and agreed to by us and the applicable Custodian, in writing.
-
 You represent and warrant that any Digital Assets you purchase or sell on our Service are being purchased and sold by you directly, and not for or on behalf of any third-party. You are not authorized to use your Account on our Service for or on behalf of any other person or entity.
-
-## Withdrawing Digital Assets to External Digital Wallets
-
-While custody of the Digital Assets you purchase or deposit are held by a Custodian, you may elect to withdraw your Digital Assets to an external digital wallet address. Given the nature of digital assets and blockchain technology, we are unable to confirm who owns or controls external digital wallets address you specify for withdrawals. For your protection, you agree to only withdraw Digital Assets from your Account on the Service to external digital wallet addresses which you own and control, and not to any third-party. You acknowledge that we are unable to retrieve withdrawn Digital Assets, or reverse Digital Asset transactions. To learn more about private keys and digital wallets, please see our FAQ webpage.
-
-As our Service may facilitate the trading and withdrawal of your Digital Assets from a Custodian’s custody, you authorize us to send withdrawal instructions to each Custodian on your behalf. In doing so, we will act as your agent, with the nature and scope of such agency relationship being limited to sending Digital Asset withdrawal and transfer instructions to the Custodian in accordance with these Terms and any actions taken from within (or in connection with) your Account on our Service (including any instructions received via an API, if applicable).
-
-To facilitate the withdrawal of your Digital Assets held by a Custodian, when a withdrawal request is made within your Account, our software sends instructions to a Custodian, on your behalf, to send your Digital Assets to us as part of the transfer or withdrawal transaction. In our sole discretion and in rare circumstances, including where your Account is suspended or terminated, we may also rely on withdrawal instructions from the email address registered for your Account on our service. For that and other reasons, it is your responsibility to ensure you maintain sole and exclusive control of any email address used to register your Account on the Service.
-
-It is your responsibility to ensure that any incoming or outgoing Digital Assets are sent to the correct digital wallet addresses and specify, where applicable, the correct memo or reference code; whether displayed by us in your Account on the Service, or whether the address and memo code are for an external wallet address. **YOUR FAILURE TO DO SO MAY RESULT IN THE PERMANENT LOSS OF SUCH DIGITAL ASSETS, AND YOU ACKNOWLEDGE THAT THIS IS AN INHERENT RISK OF USING DIGITAL ASSETS.**
-
-Without limiting any other section of these Terms which restricts or limits our liability, you agree that we shall not be held liable or responsible for any damages or losses, howsoever caused (including by negligence or otherwise), which you suffer, arising from or in any way related to Digital Assets being sent to the wrong wallet address or memo code, or the use of a Custodian. If you elect to withdraw any Digital Assets using our Service, you accept full responsibility and liability for ensuring the accuracy of the external digital wallet address and the custody and control of, and access to, the external digital wallet address and related private keys. For more information on such risks, see the section below entitled “*Acceptance Of Risk And Disclaimers*”.
-
-Processing times for withdrawing and making delivery of your Digital Assets via a Custodian may vary based upon the network times of the applicable Digital Asset and each Custodian’s processing times.
 
 ## Establishing an Account
 
@@ -122,14 +82,14 @@ You agree to promptly provide us with such information and documents we may requ
 
 You agree that:
 
-- You will not use the Website or Service in any way that     intentionally or unintentionally violates any applicable local, state,     provincial, national or international law, rule or regulation;
-- Under no circumstances shall you buy, sell, withdraw or     transfer any Digital Assets for any illegal purpose, or in the furtherance     of a crime;  
-- You will not send or receive Digital Assets to or from     any individual, entity or country upon which the Government of Canada or the     United States of America has imposed sanctions, including but not limited     to those listed under the legislation and related regulations referenced     online at <https://www.international.gc.ca/world-monde/international_relations-relations_internationales/sanctions/current-actuelles.aspx?lang=eng>;
-- You will not impersonate any person or entity or use     false identities, documents or information on the Website, Service or in     your interactions with us;
-- You will not communicate with our staff or contractors     in a way that is defamatory, libelous, harmful, hateful, harassing,     bullying, threatening, racially or ethnically offensive or abusive;
-- You will not translate, reverse engineer, decompile,     disassemble, modify or create derivative works based on the Website or     Service, in whole or in part;
-- You will not circumvent, disable, violate or otherwise     interfere with any security related feature of the Website or Service; and
-- You will not use your Account for your own commercial     purposes by sublicensing any rights granted by the Terms or, in any way,     sharing the benefit of your Account with others.
+- You will not use the Website or Service in any way that intentionally or unintentionally violates any applicable local, state,     provincial, national or international law, rule or regulation;
+- Under no circumstances shall you buy, sell, withdraw or transfer any Digital Assets for any illegal purpose, or in the furtherance     of a crime;
+- You will not send or receive Digital Assets to or from any individual, entity or country upon which the Government of Canada or the     United States of America has imposed sanctions, including but not limited     to those listed under the legislation and related regulations referenced     online at <https://www.international.gc.ca/world-monde/international_relations-relations_internationales/sanctions/current-actuelles.aspx?lang=eng>;
+- You will not impersonate any person or entity or use false identities, documents or information on the Website, Service or in     your interactions with us;
+- You will not communicate with our staff or contractors in a way that is defamatory, libelous, harmful, hateful, harassing,     bullying, threatening, racially or ethnically offensive or abusive;
+- You will not translate, reverse engineer, decompile, disassemble, modify or create derivative works based on the Website or     Service, in whole or in part;
+- You will not circumvent, disable, violate or otherwise interfere with any security related feature of the Website or Service; and
+- You will not use your Account for your own commercial purposes by sublicensing any rights granted by the Terms or, in any way,     sharing the benefit of your Account with others.
 
 If we reasonably believe you are using our Service for any illegal purpose, including but not limited to, in connection with facilitating transactions involving persons or entities who are under economic or other sanctions imposed by the Canadian or other governmental or international authority, we may terminate your Account and require that you liquidate your Digital Assets and withdraw any Canadian dollar balance to the bank Account owned or controlled by you, or take such other reasonable measures to return your funds, such as, paying the funds into a court where you may claim them.
 
@@ -246,7 +206,7 @@ While we do not currently charge Account fees, or maker or taker fees, we do mak
 
 ### Taxes
 
-You acknowledge that buying and selling Digital Assets may give rise to taxable gains and/or taxable losses, which you are likely required to report for tax purposes. You are encouraged to obtain professional tax advice in connection with your tax filing obligations arising from the buying and selling of Digital Assets. For general information about the taxation of cryptocurrencies published by the Government of Canada, please see <https://www.canada.ca/en/revenue-agency/programs/about-canada-revenue-agency-cra/compliance/digital-currency/cryptocurrency-guide.html>.
+You acknowledge that buying and selling Digital Assets may give rise to taxable gains and/or taxable losses, which you are likely required to report for tax purposes. You are encouraged to obtain professional tax advice in connection with your tax filing obligations arising from the buying and selling of Digital Assets.
 
 Although we may offer functions on the Service to calculate gains or losses, you are responsible for confirming the accuracy of such functions and reporting your gains and losses as required by law to the appropriate authorities.
 
@@ -275,14 +235,6 @@ We make no representations or warranties as to the accuracy of any such reports,
 > **AS DIGITAL ASSET TRANSACTIONS ON THE BLOCKCHAIN CANNOT BE REVERSED BY US, IT IS YOUR RESPONSIBILITY TO ENSURE THE ACCURACY OF ANY WALLET ADDRESSES YOU SPECIFY FOR WITHDRAWALS.**
 >
 > **YOU ACKNOWLEDGE THAT WE DID NOT CREATE, NOR DO WE OWN OR CONTROL THE TECHNOLOGY UNDERLYING THE DIGITAL ASSETS. IN SOME CASES, THE DIGITAL ASSETS WERE CREATED IN A DECENTRALIZED MANNER WITH NO LEGAL ENTITY WHICH CLAIMS OWNERSHIP OF THE UNDERLYING TECHNOLOGY OR NETWORK. WE MAKE NO REPRESENTATIONS OR WARRANTIES WITH RESPECT TO THE UNDERLYING BLOCKCHAIN OR OTHER TECHNOLOGY RELIED UPON BY THE DIGITAL ASSETS YOU MAY HOLD, PURCHASE OR SELL USING THE SERVICE. YOU ACCESS AND USE THOSE NETWORKS AND THE CORRESPONDING BLOCKCHAIN AT YOUR OWN RISK.**
->
-> **YOU ACKNOWLEDGE THAT THE UNDERLYING BLOCKCHAIN TECHNOLOGY OF THE DIGITAL ASSETS MAY UNDERGO A DIVERGENCE, RESULTING IN THE FORMATION OF NEW CRYPTO CURRENCIES (A “FORK”). A FORK MAY IMPACT THE VALUE, FUNCTIONALITY AND OTHER CHARACTERISTICS OF THE DIGITAL ASSETS. WE MAKE NO REPRESENTATION OR WARRANTY AS TO WHETHER WE WILL SUPPORT A FORK ARISING FROM ANY OF THE DIGITAL ASSETS.  YOU AGREE THAT WE SHALL NOT BE RESPONSIBLE OR LIABLE FOR CLAIMING, ISSUING, STORING OR HOLDING ANY CRYPTO CURRENCIES RESULTING FROM A FORK FOR OR ON YOUR BEHALF.**  
->
-> **YOU ACKNOWLEDGE AND AGREE THAT WE MAY ELECT NOT TO SUPPORT A FORK ARISING FROM ANY OF THE DIGITAL ASSETS AND THAT IN SUCH CIRCUMSTANCES, YOU MAY NOT BE ABLE TO CLAIM ANY NEW CRYPTO CURRENCIES RESULTING FROM A FORK.**  
->
-> **YOU SHOULD NOT STORE YOUR DIGITAL ASSETS WITH US IF YOU WISH TO ENSURE OWNERSHIP OF ANY NEW DIGITAL ASSETS ARISING FROM A FORK.**
->
-> **YOU AGREE AND ACKNOWLEDGE THAT WE MAY SUSPEND ACCESS TO YOUR ACCOUNT, OR ACCOUNT FUNCTIONS, SUCH AS BUYING, SELLING OR TRANSFERRING DIGITAL ASSETS OR FIAT FUNDS FOR ANY REASON, INCLUDING FOR EXAMPLE, SCHEDULED MAINTENANCE, YOUR FAILURE TO COMPLY WITH THESE TERMS, SECURITY OR FRAUD CONCERNS, FOR REGULATORY REASONS OR IN THE EVENT OF A FORK.**  
 >
 > **YOU AGREE THAT YOU ARE RESPONSIBLE FOR, AND SHALL INDEMNIFY US IN RELATION TO, ANY AND ALL CHARGEBACKS CHARGED TO US BY ANY BANK, FINANCIAL INSTITUTION OR OTHER PAYMENT PROVIDER. YOU ACKNOWLEDGE THAT THESE TERMS PERMIT US, WITHOUT ANY LIABILITY TO YOU, TO LIQUIDATE ANY DIGITAL ASSETS IN YOUR ACCOUNT TO SATISFY ANY PAYMENTS OWING TO US, OR ANY NEGATIVE BALANCE IN YOUR ACCOUNT.**
 >
@@ -432,44 +384,25 @@ We, Natureblocks Technologies Inc., accept no responsibility for your actions or
 
 You agree to use our Website and Service in accordance with the following acceptable use and code of conduct guidelines.  In particular, you agree that:
 
-\1.  Access to the Service is intended for use from locations where buying, selling and holding Platform Currencies is lawful. Any use of our Service from a location where buying, selling or holding the Platform Currencies is illegal is prohibited. In the event that access to the Service, or the buying, selling or holding of the Platform Currencies becomes unlawful in your jurisdiction, you agree to sell or transfer your Platform Currencies to an external wallet and close your account with us;
-
-\2.  You are only permitted to hold one account at a time on our Service. You agree not to establish more than one account at any time and that we may remove any accounts we deem to be duplicates. In making such a determination, we may consider any personal information you provide to us, or which we have collected pursuant to our Privacy Policy;
-
-\3.  You will not impersonate any person or entity or use false identities on the Website, Service or in your interactions with us;
-
-\4.  You will not upload false, misleading or inaccurate documents or other information;
-
-\5.  You will not upload, copy, distribute, share, or otherwise use content that is unlawful, obscene, defamatory, libelous, harmful, hateful, harassing, bullying, threatening, racially or ethnically offensive or abusive, that would violate another person's rights (including their intellectual property rights), constitute or encourage a criminal offense, give rise to civil liability.
-
-\6.  You will not use the Website or Service in a way that has any unlawful or fraudulent purpose or effect;
-
-\7.  You will not violate any local, provincial, state, national or international law, rule or regulation;
-
-\8.  You will not upload, copy, distribute, share or otherwise use unsolicited or unauthorized advertising, promotional materials, or any junk mail;
-
-\9.  You will not upload, copy, distribute, share or otherwise use content that contains or embodies software viruses or any other malicious computer code that is designed to interrupt, undermine, destroy or limit the functionality of any computer software, hardware or communications equipment, or that is designed to perform functions on any software, hardware or equipment without the owner's express consent;
-
-\10.         You will not disclose your password or transfer your account to any third party, or allow any third party to access your account;
-
-\11.         You will not interfere with or disrupt the Website, Service or servers or networks connected thereto;
-
-\12.         You will not use the Website or Service to artificially generate traffic or page links to a Website or for any other purpose not intended;
-
-\13.         You will not collect, harvest or store any personally identifiable information, including user account information, from us;
-
-\14.         You will not translate, reverse engineer, decompile, disassemble, modify or create derivative works based on the Website or Service, in whole or in part;
-
-\15.         You will not circumvent, disable, violate or otherwise interfere with any security related feature of the Website or Service;
-
-\16.         You will not rent, lease, sublicense, transfer, sell, trade, resell or exploit for any commercial purposes any portion of the Website or Service (including, without limitation, your account information, use of the Service or access to the Service);
-
-\17.         You will not use your account for your own commercial purposes by sublicensing any rights granted by the Terms or, in any way, sharing the benefit of your account with others. Your account is non-transferrable and may only be used by you;
-
-\18.         You will not use the Website or Service in any way that violates the Terms, or that aids, encourages, or purports to authorize anyone else to violate the terms of this policy;
-
-\19.         You will not use the Website or Service in any way that intentionally or unintentionally violates any applicable local, state, provincial, national or international law, rule or regulation; and
-
-\20.         You will not employ misleading e-mail addresses or falsify information in any part of any communication with us.
+1. Access to the Service is intended for use from locations where buying, selling and holding Platform Currencies is lawful. Any use of our Service from a location where buying, selling or holding the Platform Currencies is illegal is prohibited. In the event that access to the Service, or the buying, selling or holding of the Platform Currencies becomes unlawful in your jurisdiction, you agree to sell or transfer your Platform Currencies to an external wallet and close your account with us;
+2. You are only permitted to hold one account at a time on our Service. You agree not to establish more than one account at any time and that we may remove any accounts we deem to be duplicates. In making such a determination, we may consider any personal information you provide to us, or which we have collected pursuant to our Privacy Policy;
+3. You will not impersonate any person or entity or use false identities on the Website, Service or in your interactions with us;
+4. You will not upload false, misleading or inaccurate documents or other information;
+5. You will not upload, copy, distribute, share, or otherwise use content that is unlawful, obscene, defamatory, libelous, harmful, hateful, harassing, bullying, threatening, racially or ethnically offensive or abusive, that would violate another person's rights (including their intellectual property rights), constitute or encourage a criminal offense, give rise to civil liability.
+6. You will not use the Website or Service in a way that has any unlawful or fraudulent purpose or effect;
+7. You will not violate any local, provincial, state, national or international law, rule or regulation;
+8. You will not upload, copy, distribute, share or otherwise use unsolicited or unauthorized advertising, promotional materials, or any junk mail;
+9. You will not upload, copy, distribute, share or otherwise use content that contains or embodies software viruses or any other malicious computer code that is designed to interrupt, undermine, destroy or limit the functionality of any computer software, hardware or communications equipment, or that is designed to perform functions on any software, hardware or equipment without the owner's express consent;
+10. You will not disclose your password or transfer your account to any third party, or allow any third party to access your account;
+11. You will not interfere with or disrupt the Website, Service or servers or networks connected thereto;
+12. You will not use the Website or Service to artificially generate traffic or page links to a Website or for any other purpose not intended;
+13. You will not collect, harvest or store any personally identifiable information, including user account information, from us;
+14. You will not translate, reverse engineer, decompile, disassemble, modify or create derivative works based on the Website or Service, in whole or in part;
+15. You will not circumvent, disable, violate or otherwise interfere with any security related feature of the Website or Service;
+16. You will not rent, lease, sublicense, transfer, sell, trade, resell or exploit for any commercial purposes any portion of the Website or Service (including, without limitation, your account information, use of the Service or access to the Service);
+17. You will not use your account for your own commercial purposes by sublicensing any rights granted by the Terms or, in any way, sharing the benefit of your account with others. Your account is non-transferrable and may only be used by you;
+18. You will not use the Website or Service in any way that violates the Terms, or that aids, encourages, or purports to authorize anyone else to violate the terms of this policy;
+19. You will not use the Website or Service in any way that intentionally or unintentionally violates any applicable local, state, provincial, national or international law, rule or regulation; and
+20. You will not employ misleading e-mail addresses or falsify information in any part of any communication with us.
 
 We reserve the right in our sole discretion to revise this policy, which shall be posted on the Website and/or Service.
