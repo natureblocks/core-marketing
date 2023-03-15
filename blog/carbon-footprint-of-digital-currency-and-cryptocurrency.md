@@ -1,6 +1,8 @@
 # What is the Carbon Footprint of Digital Currency and Cryptocurrency?
-
-## What is the difference between digital currency and cryptocurrency?
+## Have you ever wondered about the environmental impact of digital currency and cryptocurrency? As the world increasingly relies on digital transactions, it's important to understand the carbon footprint of this emerging technology. Join us as we explore the environmental implications of cryptocurrencies and what steps can be taken to minimize their impact on our planet.
+### Author Fullname
+#### Jan 6, 2023
+##### sustainability,cyrptocurrency,projects
 
 Digital currency refers to any currency that can be represented digitally. For example, **any currency able to be transferred online is considered digital currency**. Cryptocurrencies are digital currencies, have many indigenous encryption methods, and are stored on [blockchain](https://natureblocks.com/blog/what-is-blockchain)s and in digital wallets. Both types of currencies emit carbon into the atmosphere during creation and circulation. Each currency's carbon footprint is slightly different because of the systematic differences in how they are traded, transferred, and owned. Most governments are tight-lipped about the environmental impacts of digital fiat transactions, but the environmental implications of cryptocurrencies are public domain. Cryptocurrencies adopt two central systems to manage their [blockchain](https://natureblocks.com/blog/what-is-blockchain) ledgers, and each differs significantly in its environmental impact. ‍
 
