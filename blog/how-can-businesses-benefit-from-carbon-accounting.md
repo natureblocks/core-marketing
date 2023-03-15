@@ -1,4 +1,4 @@
-# ow can Businesses Benefit from Carbon Accounting?
+# How can Businesses Benefit from Carbon Accounting?
 ## Implementing carbon accounting practices not only helps the environment but can also benefit businesses by reducing costs, improving their brand reputation, and attracting environmentally conscious consumers and investors.
 ### Author Fullname
 #### Jan 8, 2023
