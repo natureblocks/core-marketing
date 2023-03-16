@@ -1,4 +1,8 @@
 # What is Cryptography?
+## Have you ever wondered how your data is kept safe when it is transmitted over the internet? In this blog post, we explore the fundamental concepts behind symmetric and asymmetric-key encryption, shedding light on the key differences between the two and how they are used to secure online communications.
+### Author Fullname
+#### Feb 20, 2023
+##### sustainability,projects
 
 The need for information security is as old as communication itself. Cryptography is a complex solution to this simple, yet difficult-to-solve problem. By definition, **cryptography is a method of protecting information through codes**, so only intended audiences can consume the data. Cryptography is commonly associated with scrambling plaintext into ciphertext and then into plaintext. Plaintext refers to ordinary text or information, and transforming it into ciphertext is called **encryption**. The method of transforming ciphertext back into plaintext is called **decryption**. Cryptographers are people who practice, create, or assist in these processes.
 

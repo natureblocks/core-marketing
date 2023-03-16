@@ -1,4 +1,8 @@
 # What are Carbon Markets and how do they work?
+## Carbon markets are a mechanism used to reduce greenhouse gas emissions by putting a price on carbon. This price incentivizes companies and governments to reduce their emissions, as they can sell excess emission permits to other entities. These markets are often used as a tool in climate policy, with many countries implementing cap-and-trade systems to meet their emissions reduction targets.
+### Author Fullname
+#### Mar 12, 2023
+##### sustainability,projects,carbon accounting
 
 Carbon markets are new developing **markets for carbon offsets**. Since they are developing markets, fragmentation and a lack of liquidity create many price inefficiencies that make carbon markets hard to navigate. Developing carbon markets can be separated into two categories. These two categories are compliance markets and voluntary markets.
 

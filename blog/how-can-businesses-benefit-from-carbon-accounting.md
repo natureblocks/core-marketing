@@ -4,7 +4,6 @@
 #### Jan 8, 2023
 ##### sustainability,carbon accounting,projects
 
-# How can Businesses Benefit from Carbon Accounting?
 
 Profits incentivize private enterprise. Carbon taxes pressure businesses into reducing their carbon footprints. Carbon taxes do this by subtracting from the profit margins of enterprises that go above emission limits. Each year, governments must continue increasing carbon taxes and decreasing emission limits to stay on par with global emission goals. Consequently, **businesses must become more efficient or buy [carbon offsets](https://natureblocks.com/blog/how-do-voluntary-projects-report-carbon-offsets) to avoid increasing taxation**.
 

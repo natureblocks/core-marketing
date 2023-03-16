@@ -1,4 +1,8 @@
 # What is Tether (USDT)?
+## Are you curious about the world of cryptocurrency and stablecoins? Discover how this innovative digital asset works, and why it's quickly becoming a go-to choice for traders and investors around the globe.
+### Author Fullname
+#### Mar 2, 2023
+##### cryptocurrency
 
 **Tether is a cryptocurrency designed to hold a one-to-one value with US dollars**. Multiple [blockchain](https://natureblocks.com/blog/what-is-blockchain)s support it, and it is exceptionally liquid due to its high trading volume. Over time, it has become an integral element in the cryptocurrency ecosystem because of its unique function. Currently, USDT is the third most traded cryptocurrency, behind only Bitcoin (BTC) and Ethereum (ETH).
 

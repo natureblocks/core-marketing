@@ -1,4 +1,8 @@
 # What is Blockchain?
+## Understanding how blockchain works is becoming increasingly important in today's digital age. In essence, blockchain is a decentralized ledger system that records transactions and information in a secure and transparent manner. The technology has a wide range of applications, from cryptocurrencies like Bitcoin to supply chain management and digital identity verification.
+### Author Fullname
+#### Feb 20, 2023
+##### cryptocurrency
 
 A blockchain is a decentralized ledger hosted by nodes of a computer network. **Blockchains store immutable data in digital format. They guarantee security and fidelity of records, allowing two parties to communicate confidentially without needing a trusted third party**. Effectively, blockchains replace trusted third parties with many computers that share a ledger of transactions or communications. The most common use of blockchain today is to facilitate the trading of cryptocurrencies with help from [cryptographic](https://natureblocks.com/blog/what-is-cryptography) processes. Blockchains also allow smart contracts to be created and executed on their networks.
 

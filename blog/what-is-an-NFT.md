@@ -1,4 +1,8 @@
 # What is an NFT?
+## Have you ever wondered how your data is kept safe when it is transmitted over the internet? In this blog post, we explore the fundamental concepts behind symmetric and asymmetric-key encryption, shedding light on the key differences between the two and how they are used to secure online communications.
+### Author Fullname
+#### Feb 20, 2023
+##### cryptocurrency
 
 NFTs are a new digital asset class built on [blockchain](https://natureblocks.com/blog/what-is-blockchain) technology that take advantage of [cryptography](https://natureblocks.com/blog/what-is-cryptography). NFT stands for non-fungible token. If something is fungible, it can easily be replaced or interchanged. Therefore, if something is non-fungible, it cannot easily be replaced or interchanged. **Non-fungible tokens are tokens that exist on [blockchain](https://natureblocks.com/blog/what-is-blockchain)s that cannot be replaced or interchanged**. Each token is unique, and all of its previous transactions are traceable on the [blockchain](https://natureblocks.com/blog/what-is-blockchain) that each exists on.
 

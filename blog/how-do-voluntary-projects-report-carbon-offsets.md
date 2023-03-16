@@ -1,4 +1,8 @@
 # How do Voluntary Projects Report Carbon Offsets?
+## As more and more companies seek to reduce their carbon footprint, understanding how carbon offsets are reported is becoming increasingly important. In this blog post, we explore how voluntary projects report carbon offsets, providing readers with valuable insights into how these reports are created and verified..
+### Author Fullname
+#### Feb 20, 2023
+##### sustainability,projects
 
 If a voluntary carbon project wishes to be awarded [carbon credits](https://natureblocks.com/blog/what-are-carbon-credits) to sell in [carbon markets](https://natureblocks.com/blog/what-are-carbon-markets) by a non-profit registry, there are many reporting criteria that the project needs to meet. As carbon accounting has many variables that are hard to quantify, carbon emission reduction projects must state specific modeling methods they used in detail. Even voluntary carbon projects produce some carbon emissions, whether from unintended environmental circumstances or simply operators driving to the project site. These adverse effects must be defined as either primary (direct emissions from combustion of fossil fuels) or secondary (indirect emissions from product life cycles) carbon emissions and recorded.
 

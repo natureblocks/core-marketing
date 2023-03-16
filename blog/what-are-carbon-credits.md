@@ -1,4 +1,9 @@
 # What are Carbon Credits?
+## Explore the world of carbon credits and discover how they can help businesses offset their carbon footprint while contributing to a more sustainable future.
+### Author Fullname
+#### Jan 14, 2023
+##### sustainability,projects,carbon accounting
+## What is a cryptographic key?
 
 Carbon dioxide is a greenhouse gas that traps heat within the earth’s atmosphere. Carbon emissions are a significant contributor to climate change, and the unfortunate reality is that the amount of carbon that humans release into the atmosphere is not sustainable.  Reducing or recapturing carbon emissions mitigates the effects of climate change as well as risks to public health and ecological biodiversity. Many people feel that we have a responsibility to live our lives sustainably and take care of the earth we walk on—which is where carbon credits come into play. **Carbon credits are a new asset class**. Each credit signifies an amount of carbon that is not emitted into the atmosphere.
 

@@ -1,4 +1,9 @@
 # What are Financial Risks?
+## Have you ever wondered how your data is kept safe when it is transmitted over the internet? In this blog post, we explore the fundamental concepts behind symmetric and asymmetric-key encryption, shedding light on the key differences between the two and how they are used to secure online communications.
+### Author Fullname
+#### Feb 20, 2023
+##### cryptocurrency,projects
+
 
 Risk does not refer to realized loss but potential loss. Financial risks refer to **the risks of loss or depreciation of capital or assets**. Many services and transactions come with an inherent risk of losses in financial markets. There are many different sources of risk with which services and transactions are associated. To avoid unnecessary losses when trading or investing, risk managers must adequately manage these risks. These include but are not limited to operational risks, compliance risks, market risks, liquidity risks, credit risks and systemic risks.
 

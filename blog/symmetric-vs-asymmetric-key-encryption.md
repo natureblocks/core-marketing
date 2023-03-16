@@ -1,5 +1,8 @@
 # What is the difference between Symmetric and Asymmetric-Key Encryption?
-
+## Have you ever wondered how your data is kept safe when it is transmitted over the internet? In this blog post, we explore the fundamental concepts behind symmetric and asymmetric-key encryption, shedding light on the key differences between the two and how they are used to secure online communications.
+### Author Fullname
+#### Dec 12, 2022
+##### cryptocurrency
 ## What is a cryptographic key?
 
 All [cryptography](https://natureblocks.com/blog/what-is-cryptography) requires a key because **keys create and crack the code of cryptographic communications**. A key can be as simple as a random number or as complex as an entire algorithm. ‍

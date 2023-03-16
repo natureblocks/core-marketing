@@ -1,0 +1,31 @@
+name: dev-synced
+
+on:
+  push:
+    branches:
+      - main
+
+jobs:
+  test:
+    name: Publish
+    runs-on: ubuntu-20.04
+    env:
+      CICD: true
+
+    steps:
+      - name: Checkout website
+        uses: actions/checkout@v3
+
+      - name: Set up Python 3.9
+        uses: actions/setup-python@v2
+        with:
+          python-version: 3.9
+          cache: 'pip'
+
+      - name: Install dependencies
+        run: |
+          pip install -r requirements.txt
+
+      - name: Publish posts
+        run: |
+          python publish.py ${{ secrets.ELASTIC_SEARCH_API_KEY }}

@@ -1,6 +1,9 @@
 # How can I tell when a business is greenwashing?
+## Practical advice and real-life examples to help you and your friends recognize deceptive environmental claims made by businesses, known as greenwashing. By gaining insights into the various tactics employed by companies to mislead consumers, readers can make more informed choices when supporting businesses.
+### Author Fullname
+#### Jan 6, 2023
+##### sustainability,projects
 
-## What is greenwashing?
 
 Greenwashing is the act of providing misleading information regarding the environmental sustainability of a company, product or service. **Any unsubstantiated claim that portrays a business, product or service as environmentally friendly can be considered greenwashing**. Greenwashing has previously been termed "green sheen," inspired by the term "whitewashing."
 
