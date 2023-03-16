@@ -7,14 +7,27 @@ import pprint
 import re
 import pathlib
 import sys
+import argparse
 
 
 def convert_md_to_dict(md_content):
-    # Extract the title, subtitle, author, datePosted, tags, and content fields
+    """Extracts the title, subtitle, author, date, tags, and content from markdown file.
+
+    Parameters
+    ----------
+    md_content : str.
+        To be parsed using regex for blog post schema fields.
+
+    Returns
+    -------
+    dict.
+        Of all required fields for blog post schema.
+    """
+
     title = re.search(r"^# (.*)", md_content, re.MULTILINE).group(1).strip()
     subtitle = re.search(r"^## (.*)", md_content, re.MULTILINE).group(1).strip()
     author = re.search(r"^### (.*)", md_content, re.MULTILINE).group(1).strip()
-    datePosted = re.search(r"^#### (.*)", md_content, re.MULTILINE).group(1).strip()
+    date = re.search(r"^#### (.*)", md_content, re.MULTILINE).group(1).strip()
     tags = (
         re.search(r"^##### (.*)", md_content, re.MULTILINE).group(1).strip().split(",")
     )
@@ -24,13 +37,12 @@ def convert_md_to_dict(md_content):
     content = md_content[content_start:]
     content = content.strip()
 
-    # Create a dictionary with the extracted fields
     post = {
         "id": title.replace(" ", "-").lower(),
         "title": title,
         "subtitle": subtitle,
         "author": author,
-        "date": datePosted,
+        "date": date,
         "tags": tags,
         "content": content,
     }
@@ -39,14 +51,27 @@ def convert_md_to_dict(md_content):
 
 
 def main():
-    secret_key = sys.argv[1]
+    """ Loop through all markdown files in the blog folder and convert them to a list of dictionaries. 
+    Then, send a POST request to the App Search API to index the blog posts.
+
+     Parameters
+    ----------
+    api_key : str.
+        Used to access Elastic App Search API.
+    """
+    
+    
+    parser = argparse.ArgumentParser()
+    parser.add_argument("api_key", help="the name of the file to process")
+    args = parser.parse_args()
+    
     headers = {
         "Content-Type": "application/json",
-        "Authorization": "Bearer private-" + secret_key,
+        "Authorization": "Bearer private-" + args.api_key,
     }
     url = "https://develop.ent.northamerica-northeast1.gcp.elastic-cloud.com/api/as/v1/engines/blog/documents"
 
-    # set the path to the folder containing the markdown posts
+
     folder_path = pathlib.Path("blog")
 
     posts = list()
