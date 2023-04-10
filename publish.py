@@ -36,9 +36,10 @@ def convert_md_to_dict(md_content):
     content_start = re.search(pattern, md_content, flags=re.MULTILINE).end()
     content = md_content[content_start:]
     content = content.strip()
-
+    # title.replace(" ", "-").lower(),
     post = {
-        "id": title.replace(" ", "-").lower(),
+        # the id is the title with spaces replaced with dashes and all lowercase and remove any punctuation
+        "id": re.sub(r"[^\w\s]", "", title).replace(" ", "-").lower(),
         "title": title,
         "subtitle": subtitle,
         "author": author,
@@ -51,7 +52,7 @@ def convert_md_to_dict(md_content):
 
 
 def main():
-    """ Loop through all markdown files in the blog folder and convert them to a list of dictionaries. 
+    """Loop through all markdown files in the blog folder and convert them to a list of dictionaries.
     Then, send a POST request to the App Search API to index the blog posts.
 
      Parameters
@@ -59,18 +60,16 @@ def main():
     api_key : str.
         Used to access Elastic App Search API.
     """
-    
-    
+
     parser = argparse.ArgumentParser()
     parser.add_argument("api_key", help="the name of the file to process")
     args = parser.parse_args()
-    
+
     headers = {
         "Content-Type": "application/json",
         "Authorization": "Bearer private-" + args.api_key,
     }
     url = "https://develop.ent.northamerica-northeast1.gcp.elastic-cloud.com/api/as/v1/engines/blog/documents"
-
 
     folder_path = pathlib.Path("blog")
 
@@ -81,7 +80,7 @@ def main():
 
     for markdown_file in markdown_files:
         # open the markdown file and read its contents
-        with open(os.path.join('', markdown_file), "r") as f:
+        with open(os.path.join("", markdown_file), "r") as f:
             markdown_content = f.read()
 
         post = convert_md_to_dict(markdown_content)
