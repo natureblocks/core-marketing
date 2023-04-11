@@ -3,6 +3,9 @@
 ### Author Fullname
 #### Feb 20, 2023
 ##### cryptocurrency,projects
+###### 5 min read
+####### https://images.unsplash.com/photo-1495592822108-9e6261896da8?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1470&q=80
+######## Victoria, BC Canada
 
 
 Risk does not refer to realized loss but potential loss. Financial risks refer to **the risks of loss or depreciation of capital or assets**. Many services and transactions come with an inherent risk of losses in financial markets. There are many different sources of risk with which services and transactions are associated. To avoid unnecessary losses when trading or investing, risk managers must adequately manage these risks. These include but are not limited to operational risks, compliance risks, market risks, liquidity risks, credit risks and systemic risks.

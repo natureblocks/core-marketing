@@ -3,6 +3,9 @@
 ### Author Fullname
 #### Feb 20, 2023
 ##### cryptocurrency
+###### 5 min read
+####### https://images.unsplash.com/photo-1584949091598-c31daaaa4aa9?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1470&q=80
+######## Victoria, BC Canada
 
 A blockchain is a decentralized ledger hosted by nodes of a computer network. **Blockchains store immutable data in digital format. They guarantee security and fidelity of records, allowing two parties to communicate confidentially without needing a trusted third party**. Effectively, blockchains replace trusted third parties with many computers that share a ledger of transactions or communications. The most common use of blockchain today is to facilitate the trading of cryptocurrencies with help from [cryptographic](https://natureblocks.com/blog/what-is-cryptography) processes. Blockchains also allow smart contracts to be created and executed on their networks.
 

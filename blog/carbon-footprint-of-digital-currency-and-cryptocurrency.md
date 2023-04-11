@@ -1,8 +1,11 @@
-# What is the Carbon Footprint of Digital Currency and Cryptocurrency?
+# The Carbon Footprint of Digital Currency and Cryptocurrency
 ## Have you ever wondered about the environmental impact of digital currency and cryptocurrency? As the world increasingly relies on digital transactions, it's important to understand the carbon footprint of this emerging technology. Join us as we explore the environmental implications of cryptocurrencies and what steps can be taken to minimize their impact on our planet.
 ### Author Fullname
 #### Jan 6, 2023
 ##### sustainability,cyrptocurrency,projects
+###### 5 min read
+####### https://images.unsplash.com/photo-1520639221359-ad5e91f01cfd?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1470&q=80
+######## Victoria, BC Canada
 
 Digital currency refers to any currency that can be represented digitally. For example, **any currency able to be transferred online is considered digital currency**. Cryptocurrencies are digital currencies, have many indigenous encryption methods, and are stored on [blockchain](https://natureblocks.com/blog/what-is-blockchain)s and in digital wallets. Both types of currencies emit carbon into the atmosphere during creation and circulation. Each currency's carbon footprint is slightly different because of the systematic differences in how they are traded, transferred, and owned. Most governments are tight-lipped about the environmental impacts of digital fiat transactions, but the environmental implications of cryptocurrencies are public domain. Cryptocurrencies adopt two central systems to manage their [blockchain](https://natureblocks.com/blog/what-is-blockchain) ledgers, and each differs significantly in its environmental impact. ‍
 
@@ -21,6 +24,8 @@ Essentially, the faster a mining computer can guess and test 64-digit hexadecima
 ## How harmful is the pollution from proof-of-work?
 
 The mining business has become much like running a large data processing center—as long as the payouts cover the cost of electricity, miners will return a profit. As a result, **competition has incentivized the development of massive warehouses full of graphics cards and fans, running 24/7 to guess and test large numbers**. This practice is controversial, especially considering that any currency is only valuable because humans perceive it.
+
+![Bitcoin](https://images.unsplash.com/photo-1518546305927-5a555bb7020d?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1469&q=80)
 
 > For scale, each Bitcoin transaction emits the same amount of carbon dioxide as the average US home emits in 75 days. Currently, the Bitcoin network registers about 250,000 transactions each day. On December 11, 2017, Bitcoin traders made over 400,000 transactions in a single day.
 

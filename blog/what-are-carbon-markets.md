@@ -3,6 +3,9 @@
 ### Author Fullname
 #### Mar 12, 2023
 ##### sustainability,projects,carbon accounting
+###### 5 min read
+####### https://images.unsplash.com/photo-1542838132-92c53300491e?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1548&q=80
+######## Victoria, BC Canada
 
 Carbon markets are new developing **markets for carbon offsets**. Since they are developing markets, fragmentation and a lack of liquidity create many price inefficiencies that make carbon markets hard to navigate. Developing carbon markets can be separated into two categories. These two categories are compliance markets and voluntary markets.
 

@@ -3,6 +3,9 @@
 ### Author Fullname
 #### Feb 20, 2023
 ##### sustainability,projects
+###### 5 min read
+####### https://images.unsplash.com/photo-1493476523860-a6de6ce1b0c3?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1469&q=80
+######## Victoria, BC Canada
 
 If a voluntary carbon project wishes to be awarded [carbon credits](https://natureblocks.com/blog/what-are-carbon-credits) to sell in [carbon markets](https://natureblocks.com/blog/what-are-carbon-markets) by a non-profit registry, there are many reporting criteria that the project needs to meet. As carbon accounting has many variables that are hard to quantify, carbon emission reduction projects must state specific modeling methods they used in detail. Even voluntary carbon projects produce some carbon emissions, whether from unintended environmental circumstances or simply operators driving to the project site. These adverse effects must be defined as either primary (direct emissions from combustion of fossil fuels) or secondary (indirect emissions from product life cycles) carbon emissions and recorded.
 

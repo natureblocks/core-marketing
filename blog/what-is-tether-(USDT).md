@@ -3,6 +3,9 @@
 ### Author Fullname
 #### Mar 2, 2023
 ##### cryptocurrency
+###### 4 min read
+####### https://images.unsplash.com/photo-1626163015484-81fc7e3b90d8?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1632&q=80
+######## Victoria, BC Canada
 
 **Tether is a cryptocurrency designed to hold a one-to-one value with US dollars**. Multiple [blockchain](https://natureblocks.com/blog/what-is-blockchain)s support it, and it is exceptionally liquid due to its high trading volume. Over time, it has become an integral element in the cryptocurrency ecosystem because of its unique function. Currently, USDT is the third most traded cryptocurrency, behind only Bitcoin (BTC) and Ethereum (ETH).
 

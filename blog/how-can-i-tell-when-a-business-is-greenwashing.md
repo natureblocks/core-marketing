@@ -3,7 +3,9 @@
 ### Author Fullname
 #### Jan 6, 2023
 ##### sustainability,projects
-
+###### 5 min read
+####### https://images.unsplash.com/photo-1634250420331-68d96d14ec5b?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1470&q=80
+######## Victoria, BC Canada
 
 Greenwashing is the act of providing misleading information regarding the environmental sustainability of a company, product or service. **Any unsubstantiated claim that portrays a business, product or service as environmentally friendly can be considered greenwashing**. Greenwashing has previously been termed "green sheen," inspired by the term "whitewashing."
 

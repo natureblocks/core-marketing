@@ -3,6 +3,9 @@
 ### Author Fullname
 #### Feb 20, 2023
 ##### cryptocurrency
+###### 4 min read
+####### https://images.unsplash.com/photo-1646463509175-8b080ab5e137?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1471&q=80
+######## Victoria, BC Canada
 
 NFTs are a new digital asset class built on [blockchain](https://natureblocks.com/blog/what-is-blockchain) technology that take advantage of [cryptography](https://natureblocks.com/blog/what-is-cryptography). NFT stands for non-fungible token. If something is fungible, it can easily be replaced or interchanged. Therefore, if something is non-fungible, it cannot easily be replaced or interchanged. **Non-fungible tokens are tokens that exist on [blockchain](https://natureblocks.com/blog/what-is-blockchain)s that cannot be replaced or interchanged**. Each token is unique, and all of its previous transactions are traceable on the [blockchain](https://natureblocks.com/blog/what-is-blockchain) that each exists on.
 

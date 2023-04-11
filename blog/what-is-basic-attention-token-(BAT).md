@@ -3,6 +3,9 @@
 ### Author Fullname
 #### Feb 4, 2023
 ##### cryptocurrency
+###### 5 min read
+####### https://images.unsplash.com/photo-1636587224433-3cd253788c40?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1632&q=80
+######## Victoria, BC Canada
 
 As cryptocurrencies go, Basic Attention Token or ticker BAT is one of the most compelling use cases for [blockchain](https://natureblocks.com/blog/what-is-blockchain) technology. Its white paper is dated February 10th, 2021, but has been in development since 2016. The token improves the security, fairness and efficiency of digital advertising. **Users are rewarded with BAT for their attention to ads when browsing with the Brave browser**. Effectively, users get paid for paying attention.
 

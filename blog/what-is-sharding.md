@@ -3,6 +3,9 @@
 ### Author Fullname
 #### Feb 20, 2023
 ##### cryptocurrency
+###### 4 min read
+####### https://images.unsplash.com/photo-1666032250188-b6797784b249?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1632&q=80
+######## Victoria, BC Canada
 
 In blockchain industry dialect, sharding refers to **the partitioning of a blockchain network**. By sharding a network, one can allow databases within the network to process more transactions per second, improving convenience and scalability. Specifically, sharding is the process of breaking a network into "shards" or partitions that are unique and act independently to accomplish the objectives of the blockchain network.
 

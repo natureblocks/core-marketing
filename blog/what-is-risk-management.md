@@ -3,6 +3,9 @@
 ### Author Fullname
 #### Feb 20, 2023
 ##### sustainability,projects
+###### 5 min read
+####### https://images.unsplash.com/photo-1480944657103-7fed22359e1d?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1632&q=80
+######## Victoria, BC Canada
 
 Whether it be what to eat for lunch, or how to invest your capital, life is full of decisions. Most of our decisions are simple, but others require thoughtful consideration. We evaluate our choices by comparing the potential reward of each versus the potential risk. This equation is quantifiable as a risk/reward ratio.
 

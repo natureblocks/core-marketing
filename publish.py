@@ -31,8 +31,11 @@ def convert_md_to_dict(md_content):
     tags = (
         re.search(r"^##### (.*)", md_content, re.MULTILINE).group(1).strip().split(",")
     )
+    time_to_read = re.search(r"^###### (.*)", md_content, re.MULTILINE).group(1).strip()
+    background_url = re.search(r"^####### (.*)", md_content, re.MULTILINE).group(1)
+    location = re.search(r"^######## (.*)", md_content, re.MULTILINE).group(1).strip()
 
-    pattern = r"^##### .+\n"
+    pattern = r"^######## .+\n"
     content_start = re.search(pattern, md_content, flags=re.MULTILINE).end()
     content = md_content[content_start:]
     content = content.strip()
@@ -45,6 +48,9 @@ def convert_md_to_dict(md_content):
         "author": author,
         "date": date,
         "tags": tags,
+        "time_to_read": time_to_read,
+        "background_url": background_url,
+        "location": location,
         "content": content,
     }
 

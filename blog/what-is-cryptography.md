@@ -3,6 +3,9 @@
 ### Author Fullname
 #### Feb 20, 2023
 ##### sustainability,projects
+###### 4 min read
+####### https://images.unsplash.com/photo-1555529902-5261145633bf?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1470&q=80
+######## Victoria, BC Canada
 
 The need for information security is as old as communication itself. Cryptography is a complex solution to this simple, yet difficult-to-solve problem. By definition, **cryptography is a method of protecting information through codes**, so only intended audiences can consume the data. Cryptography is commonly associated with scrambling plaintext into ciphertext and then into plaintext. Plaintext refers to ordinary text or information, and transforming it into ciphertext is called **encryption**. The method of transforming ciphertext back into plaintext is called **decryption**. Cryptographers are people who practice, create, or assist in these processes.
 

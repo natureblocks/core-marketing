@@ -3,6 +3,9 @@
 ### By ChatGPT
 #### March 24, 2023
 ##### Climate Change, Carbon Credits, Cryptocurrency, Sustainability
+###### 5 min read
+####### https://images.unsplash.com/photo-1470115636492-6d2b56f9146d?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1470&q=80
+######## Victoria, BC Canada
 
 As the world continues to grapple with the devastating effects of climate change, governments and organizations worldwide are actively seeking ways to reduce greenhouse gas emissions. One of the ways that businesses can offset their carbon footprint is by purchasing carbon credits. But what exactly are carbon credits, and how do they work?
 

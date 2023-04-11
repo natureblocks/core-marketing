@@ -3,7 +3,9 @@
 ### Author Fullname
 #### Jan 8, 2023
 ##### sustainability,carbon accounting,projects
-
+###### 5 min read
+####### https://images.unsplash.com/photo-1515465238926-3f99c4b9243a?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1471&q=80
+######## Victoria, BC Canada
 
 Profits incentivize private enterprise. Carbon taxes pressure businesses into reducing their carbon footprints. Carbon taxes do this by subtracting from the profit margins of enterprises that go above emission limits. Each year, governments must continue increasing carbon taxes and decreasing emission limits to stay on par with global emission goals. Consequently, **businesses must become more efficient or buy [carbon offsets](https://natureblocks.com/blog/how-do-voluntary-projects-report-carbon-offsets) to avoid increasing taxation**.
 
