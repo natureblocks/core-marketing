@@ -1,4 +1,3 @@
-
 # Reducing CO2 Emissions For Business Travel
 ## Fear not, my fellow jet-setters, for there are plenty of ways to reduce our travel CO2 emissions without sacrificing the convenience of getting from point A to point B.
 ### Barnaby Dennis
