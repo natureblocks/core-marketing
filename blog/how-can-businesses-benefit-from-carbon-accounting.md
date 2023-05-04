@@ -2,7 +2,7 @@
 ## Implementing carbon accounting practices not only helps the environment but can also benefit businesses by reducing costs, improving their brand reputation, and attracting environmentally conscious consumers and investors.
 ### Author Fullname
 #### Jan 8, 2023
-##### sustainability,carbon accounting,projects
+##### sustainability,carbon accounting,projects, footprint reductions
 ###### 5 min read
 ####### https://images.unsplash.com/photo-1515465238926-3f99c4b9243a?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1471&q=80
 ######## Victoria, BC Canada
