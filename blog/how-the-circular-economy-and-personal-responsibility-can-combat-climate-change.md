@@ -1,8 +1,8 @@
 # How the Circular Economy and Personal Responsibility Can Combat Climate Change
 ## Climate change might not be your fault alone, but it is now your responsibility. This post explores the connection between personal responsibility and a new circular economy in the fight against the climate crisis, backed by key research and expert opinions
-### John Schriemer
+### Natureblocks
 #### May 4, 2023
-##### footprint reductions
+##### footprint reductions,sustainability,circular economy,climate change
 ###### 5 min read
 ####### https://images.unsplash.com/photo-1489864983806-4d0d07e2d37d?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=2669&q=80
 ######## Victoria, BC Canada

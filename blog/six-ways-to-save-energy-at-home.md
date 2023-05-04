@@ -1,8 +1,8 @@
 # Six Ways to Save Energy at Home
 ## In this comprehensive guide, we'll explore the most effective ways to lower your energy footprint and save money on your energy bill, all while doing your part to mitigate the effects of climate change.
-### Barnaby Dennis
+### Natureblocks
 #### May 3, 2023
-##### footprint reductions
+##### footprint reductions,energy
 ###### 8 min read
 ####### https://images.unsplash.com/photo-1516156008625-3a9d6067fab5?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=2670&q=80
 ######## Victoria, BC Canada

@@ -1,6 +1,6 @@
 # What is the difference between Symmetric and Asymmetric-Key Encryption?
 ## Have you ever wondered how your data is kept safe when it is transmitted over the internet? In this blog post, we explore the fundamental concepts behind symmetric and asymmetric-key encryption, shedding light on the key differences between the two and how they are used to secure online communications.
-### Author Fullname
+### Natureblocks
 #### Dec 12, 2022
 ##### cryptocurrency
 ###### 5 min read

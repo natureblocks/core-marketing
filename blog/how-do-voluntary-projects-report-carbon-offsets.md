@@ -1,6 +1,6 @@
 # How do Voluntary Projects Report Carbon Offsets?
 ## As more and more companies seek to reduce their carbon footprint, understanding how carbon offsets are reported is becoming increasingly important. In this blog post, we explore how voluntary projects report carbon offsets, providing readers with valuable insights into how these reports are created and verified..
-### Author Fullname
+### Natureblocks
 #### Feb 20, 2023
 ##### sustainability,projects
 ###### 5 min read

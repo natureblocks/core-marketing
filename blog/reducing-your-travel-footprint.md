@@ -1,8 +1,8 @@
 # Reducing CO2 Emissions For Business Travel
 ## Fear not, my fellow jet-setters, for there are plenty of ways to reduce our travel CO2 emissions without sacrificing the convenience of getting from point A to point B.
-### Barnaby Dennis
+### Natureblocks
 #### May 3, 2023
-##### footprint reductions
+##### footprint reductions,travel,sustainability
 ###### 5 min read
 ####### https://images.unsplash.com/photo-1606768666853-403c90a981ad?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=2671&q=80
 ######## Victoria, BC Canada

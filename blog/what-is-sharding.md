@@ -1,6 +1,6 @@
 # What is Sharding?
 ## Are you curious about the world of cryptocurrency and stablecoins? Discover how this innovative digital asset works, and why it's quickly becoming a go-to choice for traders and investors around the globe.
-### Author Fullname
+### Natureblocks
 #### Feb 20, 2023
 ##### cryptocurrency
 ###### 4 min read

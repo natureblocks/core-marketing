@@ -1,6 +1,6 @@
 # What are Carbon Credits
 ## Understanding the Role of Carbon Credits in Combating Climate Change
-### By ChatGPT
+### Natureblocks
 #### March 24, 2023
 ##### Climate Change, Carbon Credits, Cryptocurrency, Sustainability
 ###### 5 min read

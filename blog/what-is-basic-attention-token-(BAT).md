@@ -1,6 +1,6 @@
 # What is Basic Attention Token (BAT)?
 ## Basic Attention Token (BAT) is a digital asset designed to revolutionize digital advertising by creating a more efficient and transparent system for users, advertisers, and publishers. This blog post explores the basics of BAT, its unique features, and how it can potentially change the digital advertising landscape.
-### Author Fullname
+### Natureblocks
 #### Feb 4, 2023
 ##### cryptocurrency
 ###### 5 min read

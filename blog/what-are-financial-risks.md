@@ -1,6 +1,6 @@
 # What are Financial Risks?
 ## Have you ever wondered how your data is kept safe when it is transmitted over the internet? In this blog post, we explore the fundamental concepts behind symmetric and asymmetric-key encryption, shedding light on the key differences between the two and how they are used to secure online communications.
-### Author Fullname
+### Natureblocks
 #### Feb 20, 2023
 ##### cryptocurrency,projects
 ###### 5 min read

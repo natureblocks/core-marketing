@@ -1,8 +1,8 @@
 # How can I tell when a business is greenwashing?
 ## Practical advice and real-life examples to help you and your friends recognize deceptive environmental claims made by businesses, known as greenwashing. By gaining insights into the various tactics employed by companies to mislead consumers, readers can make more informed choices when supporting businesses.
-### Author Fullname
+### Natureblocks
 #### Jan 6, 2023
-##### sustainability,projects
+##### sustainability
 ###### 5 min read
 ####### https://images.unsplash.com/photo-1634250420331-68d96d14ec5b?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1470&q=80
 ######## Victoria, BC Canada

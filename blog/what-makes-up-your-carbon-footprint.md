@@ -1,6 +1,6 @@
 # What Makes Up Your Carbon Footprint?
 ## Understanding the Different Areas of Your Life That Contribute to Your Carbon Footprint
-### Alex Davis
+### Natureblocks
 #### May 4, 2023
 ##### footprint reductions,carbon accounting
 ###### 5 min read
