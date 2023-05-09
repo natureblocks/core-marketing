@@ -1,5 +1,5 @@
 # What Makes Up Your Carbon Footprint?
-## Understanding the Different Areas of Your Life That Contribute to Your Carbon Footprint
+## Understanding the different areas of your life that contribute to your carbon footprint is the first step to reducing it and combating climate change. Whether its food, transportation, or housing, there are many ways you can become more sustainable in your daily life. 
 ### Natureblocks
 #### May 4, 2023
 ##### footprint reductions,carbon accounting

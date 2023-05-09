@@ -1,5 +1,5 @@
 # What are Financial Risks?
-## Have you ever wondered how your data is kept safe when it is transmitted over the internet? In this blog post, we explore the fundamental concepts behind symmetric and asymmetric-key encryption, shedding light on the key differences between the two and how they are used to secure online communications.
+## Managing financial risks is an essential part of any business, but what exactly are financial risks? In this article, we'll explore the different types of financial risks and how they can affect your business.
 ### Natureblocks
 #### Feb 20, 2023
 ##### cryptocurrency,projects

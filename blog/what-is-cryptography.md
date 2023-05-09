@@ -2,7 +2,7 @@
 ## Have you ever wondered how your data is kept safe when it is transmitted over the internet? In this blog post, we explore the fundamental concepts behind symmetric and asymmetric-key encryption, shedding light on the key differences between the two and how they are used to secure online communications.
 ### Natureblocks
 #### Feb 20, 2023
-##### sustainability,projects
+##### cryptocurrency
 ###### 4 min read
 ####### https://images.unsplash.com/photo-1555529902-5261145633bf?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1470&q=80
 ######## Victoria, BC Canada

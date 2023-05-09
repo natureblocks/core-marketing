@@ -4,7 +4,7 @@
 #### May 4, 2023
 ##### footprint reductions,carbon neutrality,carbon credits,climate change
 ###### 5 min read
-####### https://images.unsplash.com/photo-1516156008625-3a9d6067fab5?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=2670&q=80
+####### https://images.unsplash.com/photo-1510414842594-a61c69b5ae57?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=2670&q=80
 ######## Victoria, BC Canada
 
 The impact of greenhouse gas emissions on the environment has led to the emergence of a new concept: carbon neutrality. The term refers to the state of achieving net zero carbon dioxide emissions by balancing carbon emissions with carbon removal or offsets. This article will explore what it means to be carbon neutral and how individuals and companies can achieve it.
