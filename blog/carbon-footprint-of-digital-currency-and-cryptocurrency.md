@@ -1,8 +1,8 @@
 # The Carbon Footprint of Digital Currency and Cryptocurrency
-## Have you ever wondered about the environmental impact of digital currency and cryptocurrency? As the world increasingly relies on digital transactions, it's important to understand the carbon footprint of this emerging technology. Join us as we explore the environmental implications of cryptocurrencies and what steps can be taken to minimize their impact on our planet.
+## As the world increasingly relies on digital transactions, it's important to understand the carbon footprint of this emerging technology. Join us as we explore the environmental implications of cryptocurrencies and what steps can be taken to minimize their impact on our planet.
 ### Natureblocks
 #### Jan 6, 2023
-##### sustainability,cyrptocurrency,footprint reductions
+##### sustainability,cryptocurrency,footprint reductions
 ###### 5 min read
 ####### https://images.unsplash.com/photo-1520639221359-ad5e91f01cfd?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1470&q=80
 ######## Victoria, BC Canada
